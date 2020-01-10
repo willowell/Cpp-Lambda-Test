@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lambdatest" targetName="lambdatest" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5cb9f02-2acd-40de-8713-8762bc4813cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="KZJBAsNj" />
+  </component>
+  <component name="ProjectId" id="1VBCbZ09HgMWFwCHUq7UVttbDQA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager">
+    <configuration name="lambdatest" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lambdatest" TARGET_NAME="lambdatest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="lambdatest" RUN_TARGET_NAME="lambdatest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5cb9f02-2acd-40de-8713-8762bc4813cf" name="Default Changelist" comment="" />
+      <created>1576717172974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576717172974</updated>
+      <workItem from="1576717177857" duration="324000" />
+      <workItem from="1576725593543" duration="919000" />
+      <workItem from="1578633681093" duration="810000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="673" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1576717479831">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="673" y="401" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1920.1057@0.23.1920.1057" timestamp="1576717479831" />
+    <state width="1269" height="315" key="GridCell.Tab.0.bottom" timestamp="1578634494334">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494334" />
+    <state width="1269" height="315" key="GridCell.Tab.0.center" timestamp="1578634494334">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494334" />
+    <state width="1269" height="315" key="GridCell.Tab.0.left" timestamp="1578634494333">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494333" />
+    <state width="1269" height="315" key="GridCell.Tab.0.right" timestamp="1578634494334">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494334" />
+    <state width="1269" height="315" key="GridCell.Tab.1.bottom" timestamp="1578634494336">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494336" />
+    <state width="1269" height="315" key="GridCell.Tab.1.center" timestamp="1578634494335">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494335" />
+    <state width="1269" height="315" key="GridCell.Tab.1.left" timestamp="1578634494334">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494334" />
+    <state width="1269" height="315" key="GridCell.Tab.1.right" timestamp="1578634494335">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1269" height="315" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1578634494335" />
+    <state x="102" y="325" key="SettingsEditor" timestamp="1578633801576">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="102" y="325" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1578633801576" />
+    <state x="603" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1576717177906">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="603" y="355" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1576717177906" />
+  </component>
+</project>
